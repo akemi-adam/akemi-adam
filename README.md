@@ -7,7 +7,7 @@
 <br>
 <img align="left" width="30%" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzE1NzBkZDN2cXp4YjNjYWRsZm50OWdzOHU3NzExcDhpbzVoZWZ1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Sm9AfJRiZofjlrkAAl/giphy.gif">
 <div align="left">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💡<strong>I am currently learning:</strong> Software Architecture, Systems Design, and NLP<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💡<strong> I am currently learning:</strong> Software Architecture, Systems Design, and NLP<br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💬<strong> Ask me about:</strong> I have a technical degree in Internet Informatics from IFRN, and <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am currently studying Information Systems at UFRN<br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎯 Building a solid foundation independent of specific technologies<br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚡ <strong>Fun fact:</strong> I watched a Serbian movie without subtitles for 30 minutes thinking<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;it was in Portuguese<br><br>
